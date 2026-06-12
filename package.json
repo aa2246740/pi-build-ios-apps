@@ -1,0 +1,64 @@
+{
+  "name": "pi-build-ios-apps",
+  "version": "0.1.0",
+  "description": "Build, launch, and browser-debug iOS Simulator apps from Pi.",
+  "type": "module",
+  "homepage": "https://github.com/aa2246740/pi-build-ios-apps#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa2246740/pi-build-ios-apps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aa2246740/pi-build-ios-apps/issues"
+  },
+  "keywords": [
+    "pi-package",
+    "pi-agent",
+    "pi-extension",
+    "ios",
+    "xcode",
+    "simulator",
+    "serve-sim",
+    "cmux",
+    "pi-company",
+    "mobile"
+  ],
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ],
+    "skills": [
+      "./skills"
+    ],
+    "image": "https://raw.githubusercontent.com/aa2246740/pi-build-ios-apps/main/docs/assets/social-preview.png"
+  },
+  "files": [
+    "extensions",
+    "skills",
+    "docs/assets",
+    "README.md",
+    "README.zh-CN.md",
+    "SECURITY.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "dependencies": {
+    "typebox": "^1.2.8"
+  },
+  "devDependencies": {
+    "@earendil-works/pi-ai": "^0.79.1",
+    "@earendil-works/pi-coding-agent": "^0.79.1",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "Apache-2.0"
+}
