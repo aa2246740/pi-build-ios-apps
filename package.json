@@ -1,6 +1,6 @@
 {
   "name": "pi-build-ios-apps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Build, launch, and browser-debug iOS Simulator apps from Pi.",
   "type": "module",
   "homepage": "https://github.com/aa2246740/pi-build-ios-apps#readme",
@@ -35,9 +35,8 @@
   "files": [
     "extensions",
     "skills",
-    "docs/assets",
+    "docs",
     "README.md",
-    "README.zh-CN.md",
     "SECURITY.md",
     "LICENSE"
   ],

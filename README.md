@@ -1,6 +1,6 @@
 # pi-build-ios-apps
 
-[中文](README.zh-CN.md)
+[中文](docs/README.zh-CN.md)
 
 ![pi-build-ios-apps hero](docs/assets/hero.png)
 

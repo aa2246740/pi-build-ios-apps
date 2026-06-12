@@ -1,8 +1,8 @@
 # pi-build-ios-apps
 
-[English](README.md)
+[English](../README.md)
 
-![pi-build-ios-apps hero](docs/assets/hero.png)
+![pi-build-ios-apps hero](assets/hero.png)
 
 > 让 Pi 能构建、启动，并在浏览器里调试 iOS Simulator App。
 
@@ -12,7 +12,7 @@
 
 它的目标不是隐藏式自动化，而是可见、可打断、可验收的本地移动 App 开发。
 
-![真实模拟器 demo](docs/assets/demo.gif)
+![真实模拟器 demo](assets/demo.gif)
 
 ## 为什么需要它
 
