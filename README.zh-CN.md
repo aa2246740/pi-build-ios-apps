@@ -32,6 +32,12 @@
 
 ## 安装
 
+从 npm 安装：
+
+```sh
+pi install npm:pi-build-ios-apps
+```
+
 从 GitHub 安装：
 
 ```sh

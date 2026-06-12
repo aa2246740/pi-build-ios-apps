@@ -35,6 +35,12 @@ It gives Pi tools for the parts of iOS work that need local runtime evidence:
 
 ## Install
 
+From npm:
+
+```sh
+pi install npm:pi-build-ios-apps
+```
+
 From GitHub:
 
 ```sh
